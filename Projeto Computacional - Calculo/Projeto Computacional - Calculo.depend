@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1585492145 source:c:\users\carlos\desktop\2 semestre\cálculo\projeto - calculadora\projeto computacional - calculo\main.c
+	<stdio.h>
+	<stdlib.h>
+
